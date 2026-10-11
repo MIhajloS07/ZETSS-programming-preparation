@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\VISUAL STUDIO\\c\u002B\u002B republicko\\takmicenja_primeri\\2023\\2023_republicko_z1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0A20C69-392F-4F0F-BAB4-8F618C400F9F}|2023_republicko_z1\\2023_republicko_z1.vcxproj|E:\\VISUAL STUDIO\\c\u002B\u002B republicko\\takmicenja_primeri\\2023\\2023_republicko_z1\\2023_republicko_z1\\2023_republicko_z1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0A20C69-392F-4F0F-BAB4-8F618C400F9F}|2023_republicko_z1\\2023_republicko_z1.vcxproj|solutionrelative:2023_republicko_z1\\2023_republicko_z1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "2023_republicko_z1.cpp",
+              "DocumentMoniker": "E:\\VISUAL STUDIO\\c\u002B\u002B republicko\\takmicenja_primeri\\2023\\2023_republicko_z1\\2023_republicko_z1\\2023_republicko_z1.cpp",
+              "RelativeDocumentMoniker": "2023_republicko_z1\\2023_republicko_z1.cpp",
+              "ToolTip": "E:\\VISUAL STUDIO\\c\u002B\u002B republicko\\takmicenja_primeri\\2023\\2023_republicko_z1\\2023_republicko_z1\\2023_republicko_z1.cpp",
+              "RelativeToolTip": "2023_republicko_z1\\2023_republicko_z1.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-11T17:06:08.155Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+﻿  Source.cpp
+E:\VISUAL STUDIO\c++ republicko\Nizovi i operacije\Nizovi i operacije\Source.cpp(33,9): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+  Nizovi i operacije.vcxproj -> E:\VISUAL STUDIO\c++ republicko\Nizovi i operacije\x64\Debug\Nizovi i operacije.exe

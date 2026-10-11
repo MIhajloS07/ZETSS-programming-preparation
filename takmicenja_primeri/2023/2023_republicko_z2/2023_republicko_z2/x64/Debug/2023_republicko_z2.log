@@ -1,0 +1,4 @@
+﻿  2023_republicko_z2.cpp
+E:\VISUAL STUDIO\c++ republicko\takmicenja_primeri\2023\2023_republicko_z2\2023_republicko_z2\2023_republicko_z2.cpp(99,10): warning C4129: 'N': unrecognized character escape sequence
+E:\VISUAL STUDIO\c++ republicko\takmicenja_primeri\2023\2023_republicko_z2\2023_republicko_z2\2023_republicko_z2.cpp(111,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  2023_republicko_z2.vcxproj -> E:\VISUAL STUDIO\c++ republicko\takmicenja_primeri\2023\2023_republicko_z2\x64\Debug\2023_republicko_z2.exe

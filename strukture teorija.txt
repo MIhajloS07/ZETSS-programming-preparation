@@ -1,0 +1,13 @@
+Strukture predstavljaju slozeni tip podatka koje sluze za cuvanje grupe podataka (grupisanje) u obliku objekta odnosno entiteta. Svaki entitet ima svoje osobine (polja strukture) kojima definisemo neke vrednosti za svaki objekat. Pomaze nam pri kreiranju neke promenljive koja sadrzi podatke razlicitih tipova i vrednosti.
+
+Funkcije za rad sa strukturama:
+
+find_if() - trazi prvi element koji ispunjava neki uslov
+count_if() - broji koliko elemenata zadovoljava neki uslov
+copy_if() - uzima elemente koji zadovoljavaju uslov i stavlja ih u novi vektor
+remove_if() - oznacava elemente koji treba da se obrisu i na kraju samo iz vektora se brise uz pomoc erase(prom, vektor.end()) funkcije
+max_element() - vraca iterator na najveci element 
+min_element() - vraca iterator na najmanji element
+sort() - vrsi sortiranje niza kombinujuci vise sort algoritma koji su efikasni(heap sort, quick i slicno) -> odlicna zamena umesto bubble sort O(n^2) 
+
+Vrlo je bitno ne zaboraviti edge case probleme (provera da li je vektor prazan, deljenje nulom i slicni problemi)

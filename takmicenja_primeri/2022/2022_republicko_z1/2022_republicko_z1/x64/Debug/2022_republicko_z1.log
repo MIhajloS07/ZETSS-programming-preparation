@@ -1,0 +1,12 @@
+﻿  2022_republicko_z1.cpp
+E:\VISUAL STUDIO\c++ republicko\takmicenja_primeri\2022\2022_republicko_z1\2022_republicko_z1\2022_republicko_z1.cpp(83,17): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+E:\VISUAL STUDIO\c++ republicko\takmicenja_primeri\2022\2022_republicko_z1\2022_republicko_z1\2022_republicko_z1.cpp(83,17): warning C4244:         with
+E:\VISUAL STUDIO\c++ republicko\takmicenja_primeri\2022\2022_republicko_z1\2022_republicko_z1\2022_republicko_z1.cpp(83,17): warning C4244:         [
+E:\VISUAL STUDIO\c++ republicko\takmicenja_primeri\2022\2022_republicko_z1\2022_republicko_z1\2022_republicko_z1.cpp(83,17): warning C4244:             _Ty=int
+E:\VISUAL STUDIO\c++ republicko\takmicenja_primeri\2022\2022_republicko_z1\2022_republicko_z1\2022_republicko_z1.cpp(83,17): warning C4244:         ]
+E:\VISUAL STUDIO\c++ republicko\takmicenja_primeri\2022\2022_republicko_z1\2022_republicko_z1\2022_republicko_z1.cpp(96,16): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+E:\VISUAL STUDIO\c++ republicko\takmicenja_primeri\2022\2022_republicko_z1\2022_republicko_z1\2022_republicko_z1.cpp(96,16): warning C4244:         with
+E:\VISUAL STUDIO\c++ republicko\takmicenja_primeri\2022\2022_republicko_z1\2022_republicko_z1\2022_republicko_z1.cpp(96,16): warning C4244:         [
+E:\VISUAL STUDIO\c++ republicko\takmicenja_primeri\2022\2022_republicko_z1\2022_republicko_z1\2022_republicko_z1.cpp(96,16): warning C4244:             _Ty=int
+E:\VISUAL STUDIO\c++ republicko\takmicenja_primeri\2022\2022_republicko_z1\2022_republicko_z1\2022_republicko_z1.cpp(96,16): warning C4244:         ]
+  2022_republicko_z1.vcxproj -> E:\VISUAL STUDIO\c++ republicko\takmicenja_primeri\2022\2022_republicko_z1\x64\Debug\2022_republicko_z1.exe

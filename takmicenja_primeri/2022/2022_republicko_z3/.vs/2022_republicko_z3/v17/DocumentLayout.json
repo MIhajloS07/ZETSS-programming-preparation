@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\VISUAL STUDIO\\c\u002B\u002B republicko\\takmicenja_primeri\\2022\\2022_republicko_z3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3EBF2736-F985-4135-A99F-BFB20C219739}|2022_republicko_z3\\2022_republicko_z3.vcxproj|E:\\VISUAL STUDIO\\c\u002B\u002B republicko\\takmicenja_primeri\\2022\\2022_republicko_z3\\2022_republicko_z3\\2022_republicko_z3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3EBF2736-F985-4135-A99F-BFB20C219739}|2022_republicko_z3\\2022_republicko_z3.vcxproj|solutionrelative:2022_republicko_z3\\2022_republicko_z3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "2022_republicko_z3.cpp",
+              "DocumentMoniker": "E:\\VISUAL STUDIO\\c\u002B\u002B republicko\\takmicenja_primeri\\2022\\2022_republicko_z3\\2022_republicko_z3\\2022_republicko_z3.cpp",
+              "RelativeDocumentMoniker": "2022_republicko_z3\\2022_republicko_z3.cpp",
+              "ToolTip": "E:\\VISUAL STUDIO\\c\u002B\u002B republicko\\takmicenja_primeri\\2022\\2022_republicko_z3\\2022_republicko_z3\\2022_republicko_z3.cpp",
+              "RelativeToolTip": "2022_republicko_z3\\2022_republicko_z3.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-11T16:33:14.26Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+﻿  2018_republicko_z1.cpp
+E:\VISUAL STUDIO\c++ republicko\takmicenja_primeri\2018\2018_republicko_z1\2018_republicko_z1\2018_republicko_z1.cpp(49,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  2018_republicko_z1.vcxproj -> E:\VISUAL STUDIO\c++ republicko\takmicenja_primeri\2018\2018_republicko_z1\x64\Debug\2018_republicko_z1.exe

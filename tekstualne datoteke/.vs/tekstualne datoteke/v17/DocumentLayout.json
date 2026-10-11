@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\VISUAL STUDIO\\c\u002B\u002B republicko\\tekstualne datoteke\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C27387B5-57C7-4C5E-8E86-4C31B9EC6015}|tekstualne datoteke\\tekstualne datoteke.vcxproj|E:\\VISUAL STUDIO\\c\u002B\u002B republicko\\tekstualne datoteke\\tekstualne datoteke\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C27387B5-57C7-4C5E-8E86-4C31B9EC6015}|tekstualne datoteke\\tekstualne datoteke.vcxproj|solutionrelative:tekstualne datoteke\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C27387B5-57C7-4C5E-8E86-4C31B9EC6015}|tekstualne datoteke\\tekstualne datoteke.vcxproj|E:\\VISUAL STUDIO\\c\u002B\u002B republicko\\tekstualne datoteke\\tekstualne datoteke\\brojevi.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C27387B5-57C7-4C5E-8E86-4C31B9EC6015}|tekstualne datoteke\\tekstualne datoteke.vcxproj|solutionrelative:tekstualne datoteke\\brojevi.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "brojevi.txt",
+              "DocumentMoniker": "E:\\VISUAL STUDIO\\c\u002B\u002B republicko\\tekstualne datoteke\\tekstualne datoteke\\brojevi.txt",
+              "RelativeDocumentMoniker": "tekstualne datoteke\\brojevi.txt",
+              "ToolTip": "E:\\VISUAL STUDIO\\c\u002B\u002B republicko\\tekstualne datoteke\\tekstualne datoteke\\brojevi.txt",
+              "RelativeToolTip": "tekstualne datoteke\\brojevi.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-04-17T06:31:13.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "E:\\VISUAL STUDIO\\c\u002B\u002B republicko\\tekstualne datoteke\\tekstualne datoteke\\Source.cpp",
+              "RelativeDocumentMoniker": "tekstualne datoteke\\Source.cpp",
+              "ToolTip": "E:\\VISUAL STUDIO\\c\u002B\u002B republicko\\tekstualne datoteke\\tekstualne datoteke\\Source.cpp",
+              "RelativeToolTip": "tekstualne datoteke\\Source.cpp",
+              "ViewState": "AgIAALkAAAAAAAAAAAAkwOUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-17T06:30:33.269Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

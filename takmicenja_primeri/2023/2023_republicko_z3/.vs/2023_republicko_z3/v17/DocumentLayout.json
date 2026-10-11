@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\VISUAL STUDIO\\c\u002B\u002B republicko\\takmicenja_primeri\\2023\\2023_republicko_z3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{940A2657-2909-47BF-92CB-7B4864846A27}|2023_republicko_z3\\2023_republicko_z3.vcxproj|E:\\VISUAL STUDIO\\c\u002B\u002B republicko\\takmicenja_primeri\\2023\\2023_republicko_z3\\2023_republicko_z3\\2023_republicko_z3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{940A2657-2909-47BF-92CB-7B4864846A27}|2023_republicko_z3\\2023_republicko_z3.vcxproj|solutionrelative:2023_republicko_z3\\2023_republicko_z3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "2023_republicko_z3.cpp",
+              "DocumentMoniker": "E:\\VISUAL STUDIO\\c\u002B\u002B republicko\\takmicenja_primeri\\2023\\2023_republicko_z3\\2023_republicko_z3\\2023_republicko_z3.cpp",
+              "RelativeDocumentMoniker": "2023_republicko_z3\\2023_republicko_z3.cpp",
+              "ToolTip": "E:\\VISUAL STUDIO\\c\u002B\u002B republicko\\takmicenja_primeri\\2023\\2023_republicko_z3\\2023_republicko_z3\\2023_republicko_z3.cpp",
+              "RelativeToolTip": "2023_republicko_z3\\2023_republicko_z3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-13T11:29:17.284Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

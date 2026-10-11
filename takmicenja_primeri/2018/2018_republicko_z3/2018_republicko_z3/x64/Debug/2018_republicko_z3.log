@@ -1,0 +1,8 @@
+﻿  2018_republicko_z3.cpp
+E:\VISUAL STUDIO\c++ republicko\takmicenja_primeri\2018\2018_republicko_z3\2018_republicko_z3\2018_republicko_z3.cpp(39,35): warning C4305: '=': truncation from 'int' to '_Ty'
+E:\VISUAL STUDIO\c++ republicko\takmicenja_primeri\2018\2018_republicko_z3\2018_republicko_z3\2018_republicko_z3.cpp(39,35): warning C4305:         with
+E:\VISUAL STUDIO\c++ republicko\takmicenja_primeri\2018\2018_republicko_z3\2018_republicko_z3\2018_republicko_z3.cpp(39,35): warning C4305:         [
+E:\VISUAL STUDIO\c++ republicko\takmicenja_primeri\2018\2018_republicko_z3\2018_republicko_z3\2018_republicko_z3.cpp(39,35): warning C4305:             _Ty=char
+E:\VISUAL STUDIO\c++ republicko\takmicenja_primeri\2018\2018_republicko_z3\2018_republicko_z3\2018_republicko_z3.cpp(39,35): warning C4305:         ]
+E:\VISUAL STUDIO\c++ republicko\takmicenja_primeri\2018\2018_republicko_z3\2018_republicko_z3\2018_republicko_z3.cpp(39,35): warning C4309: '=': truncation of constant value
+  2018_republicko_z3.vcxproj -> E:\VISUAL STUDIO\c++ republicko\takmicenja_primeri\2018\2018_republicko_z3\x64\Debug\2018_republicko_z3.exe
